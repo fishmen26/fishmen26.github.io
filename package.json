@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.0-alpha1",
+    "fontawesome": "^5.6.3",
+    "install": "^0.13.0",
+    "npm": "^9.4.0"
+  }
+}
